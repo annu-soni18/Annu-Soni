@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Annu Soni</h1>
+<h1 align="center">Hi, I'm Annu Soni</h1>
 <h3 align="center">Final Year CSE (AI & ML) Student | Aspiring AI/ML Engineer</h3>
 
 ---
